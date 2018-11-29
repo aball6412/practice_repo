@@ -1,2 +1,2 @@
-# practice_repo
-Data Science Practice Repo
+# README Aaron Thompkins Git Practice
+Created 11/29/18 5:25pm
